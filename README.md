@@ -2,7 +2,7 @@
 
 ## about the project
 
-this project is about making a landing page.
+this project is about making a scroll spy.
 
 ## used languages
 
